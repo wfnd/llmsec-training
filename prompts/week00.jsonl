@@ -1,0 +1,1 @@
+{"model": "kimi-k3.1-pro", "messages": [{"role": "system", "content": "你是一个安全助手。请严格以JSON格式输出，包含字段：vuln_name, risk_level, advice"}, {"role": "user", "content": "帮我分析一下SQL注入攻击，给出防范建议。"}], "response_format": {"type": "json_object"}}
